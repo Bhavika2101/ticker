@@ -1,0 +1,11 @@
+operation_id^|^id^|^tenant^|^module_from^|^module_to^|^purge^|^parameters^|^complete^|^error^|^messages^|^wait
+1^|^53bd40c8-a420-4ddb-b829-4496ff5e5be4^|^diku^|^mod-sample-1.0.2^|^mod-sample-1.3.1^|^false^|^loadReference:true^|^true^|^SQL error^|^first error,second error^|^0
+2^|^64ac30d9-b520-4edb-b859-5597ff5e5cf5^|^loki^|^mod-sample-1.1.2^|^mod-sample-1.4.1^|^true^|^loadReference:false^|^false^|^Connection error^|^first warning,second warning^|^100
+3^|^75bd50da-c630-5edc-b869-6698ff5e5dg6^|^hiku^|^mod-sample-1.2.2^|^mod-sample-1.5.1^|^false^|^loadReference:true^|^true^|^SQL update error^|^third error,fourth error^|^200
+4^|^86ce70db-d740-6efd-b879-7799ff5e5eh7^|^miku^|^mod-sample-1.3.2^|^mod-sample-1.6.1^|^true^|^loadReference:false^|^false^|^Server error^|^third warning,fourth warning^|^300
+5^|^97df80dc-e850-7efe-b889-889aff5e5fi8^|^niku^|^mod-sample-1.4.2^|^mod-sample-1.7.1^|^false^|^loadReference:true^|^true^|^SQL insert error^|^fifth error,sixth error^|^400
+6^|^a8e090dd-f960-8eff-b999-999bff5e5gj9^|^tiku^|^mod-sample-1.5.2^|^mod-sample-1.8.1^|^true^|^loadReference:false^|^false^|^Database error^|^fifth warning,sixth warning^|^500
+7^|^b9f1a0de-ga70-9efg-ba9a-a9acff5e5hk1^|^viku^|^mod-sample-1.6.2^|^mod-sample-1.9.1^|^false^|^loadReference:true^|^true^|^SQL delete error^|^seventh error,eighth error^|^600
+8^|^ca02b0ef-hb80-aefh-bb9b-b9bdff5e5il2^|^wiku^|^mod-sample-1.7.2^|^mod-sample-1.10.1^|^true^|^loadReference:false^|^false^|^Network error^|^seventh warning,eighth warning^|^700
+9^|^db13c0fg-ic90-bfij-bc9c-c9ceff5e5jm3^|^xiku^|^mod-sample-1.8.2^|^mod-sample-1.11.1^|^false^|^loadReference:true^|^true^|^SQL select error^|^ninth error,tenth error^|^800
+10^|^ec24d0gh-jda0-cgjk-bd9d-d9dfff5e5kn4^|^yiku^|^mod-sample-1.9.2^|^mod-sample-1.12.1^|^true^|^loadReference:false^|^false^|^OS error^|^ninth warning,tenth warning^|^900
